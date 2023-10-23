@@ -42,6 +42,10 @@ WangYangMing-AIResearch <br />
 - 四库Bert：https://github.com/hsc748NLP/SikuBERT-for-digital-humanities-and-classical-Chinese-information-processing  <br />
 - 古籍Bert：https://github.com/Ethan-yt/guwenbert  <br />
 
+(2) 数据集 <br />
+- 多模态带数据集
+- VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset <br />
+本文是来自中科院自动化所模式识别实验室刘静老师组的一项多模态相关的工作，目前常见的多模态模型一般局限在文本和图片(或视频)两个模态，本文则包含文本、图片(或视频)、音频三个模态，提出了 VALOR (Vision-Audio-Language Omni-peRception)多模态模型进行多模态理解和文本生成。同时为了促进三模态的研究，作者还创建了一个大规模高质量的三模态数据集 VALOR-1M，包含了 100 万部视频，都有人工标注的字幕。
 
 
 如果您对这个方向有兴趣，或长期从事民族文化研究，或想利用AI及传统技术抢救民族文物及非物质文化遗产，以及对数字人文感兴趣，有人工智能基础并想加入这个开源项目，可以私聊我，我们一起加油。中华民族的才是最好的，希望将这些民族的记忆、文字、语音、背影和文化延续下去。^_^
