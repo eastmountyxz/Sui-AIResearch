@@ -34,17 +34,18 @@ WangYangMing-AIResearch <br />
 
 - **少数民族语言同声传译**
 
+---
+
+语料库构建包括：<br />
 
 - **少数民族文字数据库** <br />
 水书数据库由作者自建的12个水族文字、5280 幅古文字图像组成，供大家开源使用。下图显示具体的数据集：
-
-<div align=center><img src="https://github.com/eastmountyxz/Sui-AIResearch/assets/53172375/14ae6fc0-1982-47dc-971d-c4d6e72ddccd" width="60%" height="60%" />
-
+<div align=center><img src="https://github.com/eastmountyxz/Sui-AIResearch/assets/53172375/14ae6fc0-1982-47dc-971d-c4d6e72ddccd" width="60%" height="60%" /></div>
 
 
 - **少数民族语音数据库**
 
-
+- **少数民族图腾数据库**
 
 
 ---
