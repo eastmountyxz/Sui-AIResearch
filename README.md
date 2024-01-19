@@ -38,6 +38,9 @@ WangYangMing-AIResearch <br />
 - **少数民族文字数据库** <br />
 水书数据库由作者自建的12个水族文字、5280 幅古文字图像组成，供大家开源使用。
 
+![图1 水书数据集](https://github.com/eastmountyxz/Sui-AIResearch/assets/53172375/14ae6fc0-1982-47dc-971d-c4d6e72ddccd)
+
+
 
 
 - **少数民族语音数据库**
