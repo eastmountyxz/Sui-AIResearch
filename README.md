@@ -3,7 +3,7 @@
 
 ---
 
-
+## 一、研究内容
 
 研究内容包括：<br />
 
@@ -36,26 +36,34 @@ WangYangMing-AIResearch <br />
 
 ---
 
+## 二、自建语料库
+
 语料库构建包括：<br />
 
-- **少数民族文字数据库** <br />
+**（1）少数民族文字数据库**
+- **水书** <br />
 水书数据库由作者自建的12个水族文字、5280 幅古文字图像组成，供大家开源使用。下图显示具体的数据集：
 <div align=center><img src="https://github.com/eastmountyxz/Sui-AIResearch/assets/53172375/14ae6fc0-1982-47dc-971d-c4d6e72ddccd" width="60%" height="60%" /></div>
 
+-- **阿拉伯文字数据集**  <br />
 
-- **少数民族语音数据库**
 
-- **少数民族图腾数据库**
+
+**（2）少数民族语音数据库**
+
+**（3）少数民族图腾数据库**
 
 
 ---
 
-**学习资料：**
+## 三、学习资料
+
 
 (1) 古籍 <br />
 - 四库Bert：https://github.com/hsc748NLP/SikuBERT-for-digital-humanities-and-classical-Chinese-information-processing  <br />
 - 古籍Bert：https://github.com/Ethan-yt/guwenbert  <br />
 - 说文解字：https://www.zdic.net/ <br />
+- 系列笔谈之五：古籍专题资源库的建设：https://mp.weixin.qq.com/s/XXZiYRSMqRN2ODWkqpZAjQ  <br />
 
 (2) 数据集 <br />
 - 多模态带数据集
