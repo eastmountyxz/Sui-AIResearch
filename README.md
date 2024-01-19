@@ -1,4 +1,4 @@
-![image](https://github.com/eastmountyxz/Sui-AIResearch/assets/53172375/029f584d-8d52-4c46-8b27-f4eae3fc0741)# Sui-AIResearch
+# Sui-AIResearch
 该资源将应用人工智能技术研究水族文化、文字和古籍。为更好的抢救和保护濒危水族文字和非物质文化遗产，作者申请并开源了该项目，主要通过人工智能技术识别水书，构建与汉字的自动翻译系统，实现水族本体和文献知识图谱构建，挖掘新词并溯源民族变迁历史。作者回到家乡贵州教书以来，对利用AI抢救民族文物研究产生浓厚兴趣并后半生都将致力于该研究中，包括侗族大歌、苗族飞歌语音识别研究，少数民族古籍保护及文化图腾识别都会陆续展开，希望有共同爱好的朋友参与进来，一起加油。此外，作者会将近5年的数字人文与人工智能研究代码开源，供大家交流，希望民族的记忆延续下去。
 
 ---
@@ -79,7 +79,14 @@ WangYangMing-AIResearch <br />
 
 <div align=center><img src="https://github.com/eastmountyxz/Sui-AIResearch/assets/53172375/beb48f78-9dd8-4ce6-b343-27415bc91418" width="50%" height="50%" /></div>
 
+<div align=center><img src="https://github.com/eastmountyxz/Sui-AIResearch/assets/53172375/029f584d-8d52-4c46-8b27-f4eae3fc0741" width="50%" height="50%" /></div>
+
 如果您对这个方向有兴趣，或长期从事民族文化研究，或想利用AI及传统技术抢救民族文物及非物质文化遗产，以及对数字人文感兴趣，有人工智能基础并想加入这个开源项目，可以私聊我，我们一起加油。中华民族的才是最好的，希望将这些民族的记忆、文字、语音、背影和文化延续下去。^_^
 
+----
+
 By：2021-07-12 杨秀璋
+
+> 日志：
+> - 2024年1月19日重新更新，上传水书数据集
 
