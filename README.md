@@ -66,6 +66,7 @@ WangYangMing-AIResearch <br />
 - 古籍Bert：https://github.com/Ethan-yt/guwenbert  <br />
 - 说文解字：https://www.zdic.net/ <br />
 - 系列笔谈之五：古籍专题资源库的建设：https://mp.weixin.qq.com/s/XXZiYRSMqRN2ODWkqpZAjQ  <br />
+- 常见80个象形字大全对照表：https://mp.weixin.qq.com/s/Dl3Za6FZgS4DMlk8gxSuMA  <br />
 
 (2) 数据集 <br />
 - 多模态带数据集
