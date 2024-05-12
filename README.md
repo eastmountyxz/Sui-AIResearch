@@ -52,6 +52,7 @@ WangYangMing-AIResearch <br />
 - **手写东巴文单字数据集(“民族语言智能分析与安全治理”教育部重点实验室)**  <br />
 -- https://xingong.muc.edu.cn/info/1042/4055.htm  <br />
 -- https://mzyy.muc.edu.cn/  <br />
+-- https://mzyy.muc.edu.cn/info/1422/2017.htm  <br />
 
 **（2）少数民族语音数据库**
 
